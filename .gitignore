@@ -39,3 +39,5 @@ jspm_packages
 workflow/.DS_Store
 .idea
 data
+
+config/config.json

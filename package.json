@@ -4,7 +4,7 @@
   "description": "Let there be light!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
     "yamljs": "^0.2.8"
   },
   "devDependencies": {
+    "chai": "^3.5.0",
     "mocha": "^3.2.0"
   }
 }
